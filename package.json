@@ -1,0 +1,14 @@
+{
+  "name": "rachebosaltyapi",
+  "version": "1.1.0",
+  "description": "Rache Community Tarafından Yapılan Basit Bir Aoi.JS Boş Altyapısıdır.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Rache Community",
+  "license": "MIT",
+  "dependencies": {
+    "aoi.js": "^5.0.8"
+  }
+}
